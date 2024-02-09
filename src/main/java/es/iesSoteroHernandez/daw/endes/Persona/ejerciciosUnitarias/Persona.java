@@ -69,7 +69,7 @@ public class Persona {
     /**
      * Constructor con 3 parametroe
      *
-     * @param nombre de la persona
+     * @param nombre de la perso
      * @param edad de la persona
      * @param sexo de la persona
      */
