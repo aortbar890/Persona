@@ -6,10 +6,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>es.iessoterohernandez.daw.endes</groupId>
-	<artifactId>aritmetica</artifactId>
+	<artifactId>Persona</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>aritmetica</name>
+	<name>Persona</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
@@ -62,7 +62,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>aritmetica</finalName>
+		<finalName>Persona</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
